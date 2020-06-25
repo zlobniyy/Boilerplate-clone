@@ -1,2 +1,2 @@
-# Boilerplate-clone
+# Boilerplate-dev
 pet project on JS
